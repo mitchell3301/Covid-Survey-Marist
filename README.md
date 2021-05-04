@@ -1,5 +1,7 @@
 # Covid-Survey-Marist
 
+## Automatically submits Marist College daily covid form with all "No's"
+
 ## How to install
 
 1. Install [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
