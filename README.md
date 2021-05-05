@@ -11,6 +11,5 @@
 5. Click the puzzle piece on the top right of Chrome browser, pin TamperMonkey
 6. Click extension icon then "Create a new script"
 7. Click this [link](https://github.com/mitchell3301/Covid-Survey-Marist/raw/main/CovidSurveyCompleter.user.js) to install the script.
-8. File save
-9. Make sure TamperMonkey extension is on and script is on
-10. Enjoy
+8. Make sure TamperMonkey extension is on and script is on
+9. Enjoy
